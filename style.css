@@ -4,6 +4,17 @@ body {
 	margin: 0 auto;
 	max-width: 600px;
 	font-family: 'Covered By Your Grace', cursive;
+	font-size: 20px;
+}
+.separator {
+    clear: both;
+    background-color: #000;
+    visibility: hidden;
+    margin: 0px;
+    padding: 0px;
+    height: 1px;
+    line-height: 0;
+    font-size: 0px;
 }
 h1 {
 	font-size: 75px;
@@ -37,5 +48,16 @@ ul li a:hover {
 p {
 	margin-top: 35px;
 	text-align: justify;
-	font-size: 20px;
+}
+.bio{
+	margin-top: 20px;
+}
+.bio img {
+	float:left;
+}
+.text{
+	max-width: 485px;
+	text-align: justify;
+	margin: 0 0 0 10px;
+	float: left;
 }
