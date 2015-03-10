@@ -16,6 +16,11 @@ body {
     line-height: 0;
     font-size: 0px;
 }
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
 h1 {
 	font-size: 75px;
 	text-align: center;
