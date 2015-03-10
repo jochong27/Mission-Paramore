@@ -60,4 +60,23 @@ p {
 	text-align: justify;
 	margin: 0 0 0 10px;
 	float: left;
+	font-size: 16px;
+}
+.album{
+	margin-top: 20px;
+}
+.album img {
+	float:left;
+}
+.chanson{
+	max-width: 485px;
+	text-align: justify;
+	margin: 0 0 0 10px;
+	float: left;
+	font-size: 16px;
+}
+h2{
+	font-size: 16px;
+	font-weight: bold;
+	margin: 0;
 }
